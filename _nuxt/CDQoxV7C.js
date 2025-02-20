@@ -1,1 +1,0 @@
-import{g as n,c as t,o as a,d as c,l as r,m as s}from"./ClsFsLiq.js";const _={};function l(e,d){const o=s;return a(),t("div",null,[c(o),r(e.$slots,"default")])}const m=n(_,[["render",l]]);export{m as default};
