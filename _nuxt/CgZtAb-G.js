@@ -1,1 +1,0 @@
-import{g as c,c as a,o as s,b as e,A as _,B as r,C as l}from"./EZa21S9X.js";const f={};function d(o,m){const n=r,t=l;return s(),a("div",null,[e(n),_(o.$slots,"default"),e(t)])}const u=c(f,[["render",d]]);export{u as default};
