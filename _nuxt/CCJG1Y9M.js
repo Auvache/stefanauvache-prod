@@ -1,1 +1,0 @@
-import{e as s,c as n,a as e,o as c}from"./pxGQERIz.js";const a={},o={class:"section-padding"};function i(l,t){return c(),n("section",o,t[0]||(t[0]=[e("div",{class:"container thinnest-content"},[e("div",null,[e("h1",{class:"mb-3"},"title"),e("p",{class:"tagline fst-italic blue mb-3"},"month 1, 2025")])],-1)]))}const d=s(a,[["render",i]]);export{d as default};
