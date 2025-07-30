@@ -1,0 +1,1 @@
+import{i as n,c as s,a as t,o}from"./JaFhuE8V.js";const c={},a={class:"section-padding"};function r(i,e){return o(),s("section",a,e[0]||(e[0]=[t("div",{class:"container thinnest-content"},[t("div")],-1)]))}const _=n(c,[["render",r]]);export{_ as default};
