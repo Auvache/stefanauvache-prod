@@ -1,0 +1,1 @@
+import{i as a,c,o as s,d as e,z as r,A as _,B as f}from"./CrENVrAb.js";const l={};function d(o,m){const n=_,t=f;return s(),c("div",null,[e(n),r(o.$slots,"default"),e(t)])}const p=a(l,[["render",d]]);export{p as default};
