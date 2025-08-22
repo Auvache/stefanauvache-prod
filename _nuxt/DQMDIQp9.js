@@ -1,0 +1,1 @@
+import{i as n,c as s,a as e,o as a}from"./DEELUn71.js";const c={},o={class:"section-padding"};function i(l,t){return a(),s("section",o,t[0]||(t[0]=[e("div",{class:"container thinnest-content"},[e("div",null,[e("p",{class:"tagline fst-italic blue mb-3"},"By Stefan Auvache")])],-1)]))}const d=n(c,[["render",i]]);export{d as default};
