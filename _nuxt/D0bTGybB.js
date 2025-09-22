@@ -1,1 +1,0 @@
-import{i as n,c as s,b as e,o as c}from"./wFnlsIGT.js";const a={},o={class:"section-padding"};function i(l,t){return c(),s("section",o,t[0]||(t[0]=[e("div",{class:"container thinnest-content"},[e("div",null,[e("p",{class:"tagline fst-italic blue mb-3"},"By Stefan Auvache")])],-1)]))}const d=n(a,[["render",i]]);export{d as default};
