@@ -1,0 +1,1 @@
+import{i as a,c,o as s,e,A as r,B as _,C as f}from"./DJFvTbfC.js";const l={};function d(o,m){const n=_,t=f;return s(),c("div",null,[e(n),r(o.$slots,"default"),e(t)])}const p=a(l,[["render",d]]);export{p as default};
